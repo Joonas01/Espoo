@@ -27,7 +27,3 @@ Kokeile näitä herkullisia ravintoloita:
 1. Ravintola X
 2. Kahvila Y
 3. ...
-
-Olet tervetullut osallistumaan ja [tuo panoksesi](https://docs.github.com/en/get-started/quickstart/fork-a-repo)!
-
-Hyvää koodausta!
