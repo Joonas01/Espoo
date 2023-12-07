@@ -1,6 +1,6 @@
-# Espoo-Website
+# Espoo
 
-Tervetuloa Espoo-Websiteen! Täällä jaamme tietoa ja tarinoita Espoon kaupungista.
+Mahtavaa, että eksyit Espoon kaupungin sivuille! Täällä jaamme tietoa ja tarinoita Espoon kaupungista.
 
 ## Sisältö
 
