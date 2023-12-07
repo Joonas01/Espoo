@@ -42,8 +42,29 @@ Muutamia Espoon tunnettuja nähtävyyksiä:
 
 ## Ruokapaikat
 
-Kokeile näitä herkullisia ravintoloita:
+Tässä muutamia suosittuja ruokapaikkoja Espoossa listan muodossa:
 
-1. Ravintola X
-2. Kahvila Y
-3. ...
+### Olo Ravintola
+
+Tyyli: Fine dining, pohjoismainen keittiö
+Sijainti: Haikon kartano, Aikapääntie 60, 02400 Kirkkonummi
+### Ravintola Nokka
+
+Tyyli: Lähiruoka, sesonkikeittiö
+Sijainti: Kanavaranta 7 F, 00160 Helsinki
+### Fat Lizard
+
+Tyyli: Panimoravintola, olut ja ruoka
+Sijainti: Rälssitie 1, 02920 Espoo
+### Kahvila Sinisen Huvilan Café
+
+Tyyli: Kodikas kahvila luonnon keskellä
+Sijainti: Nuuksiontie 84, 02820 Espoo
+### Leipomo Jälkiuuni
+
+Tyyli: Laadukas leipomo
+Sijainti: Kivenlahdentie 7, 02320 Espoo
+### Bangkok9
+
+Tyyli: Thai-ravintola
+Sijainti: Suomenlahdentie 1, 02230 Espoo
