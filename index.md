@@ -8,7 +8,7 @@ Mahtavaa, että eksyit Espoon kaupungin sivuille! Täällä jaamme tietoa ja tar
 - [Nähtävyydet](#nähtävyydet)
 - [Ruokapaikat](#ruokapaikat)
 
-<font color="blue">## Historia
+## Historia
 
 Espoon kaupunki on osa pääkaupunkiseutua ja sijaitsee Etelä-Suomessa. Tässä on lyhyt katsaus Espoon kaupungin historiaan:
 
@@ -27,7 +27,7 @@ Keskiajalla Espoo oli osa Helsingin pitäjää, ja se oli maaseutumaista seutua.
 Itsenäisen Suomen aikana Espoo alkoi muuttua nopeasti. 1900-luvun puolivälissä alkoi voimakas kaupungistuminen, ja Espoosta tuli osa Helsingin metropolialuetta. Erityisesti 1950- ja 1960-luvuilla kaupunki kasvoi huomattavasti.
 
 ### Nykyhetki:
-Nykyään Espoo on yksi Suomen suurimmista kaupungeista ja osa Helsingin seutukuntaa. Kaupunki on tunnettu modernista arkkitehtuuristaan, korkeasta elämänlaadustaan sekä korkeasta teknologian ja innovaatioiden tasosta. Espoo on myös koti useille kansainvälisille yrityksille ja tutkimuslaitoksille. Espoon kaupungin historia on rikas ja monipuolinen, ja kaupunki jatkaa kehittymistään monipuolisena asuin- ja liike-elämän keskuksena.</font>
+Nykyään Espoo on yksi Suomen suurimmista kaupungeista ja osa Helsingin seutukuntaa. Kaupunki on tunnettu modernista arkkitehtuuristaan, korkeasta elämänlaadustaan sekä korkeasta teknologian ja innovaatioiden tasosta. Espoo on myös koti useille kansainvälisille yrityksille ja tutkimuslaitoksille. Espoon kaupungin historia on rikas ja monipuolinen, ja kaupunki jatkaa kehittymistään monipuolisena asuin- ja liike-elämän keskuksena.
 
 ## Nähtävyydet
 
