@@ -41,7 +41,7 @@ Muutamia Espoon tunnettuja nähtävyyksiä:
   ![](https://www.hagerlund.net/sites/default/files/images/uimarannat/Espoo/matinlahti/matinkylan_uimaranta_1.jpg)
 - Glimsin talomuseo
 
-  ![]([https://1.bp.blogspot.com/-l-AdhZiRaUE/X2WiDKCWQJI/AAAAAAABTx8/vyvIXwWd2kYbNZnwQk2NVf7oRNctpx0-QCPcBGAsYHg/w640-h436/IMG_6907.HEIC](https://www.discoveringfinland.com/wp-content/uploads/2010/08/museum_glims_espoo_200x700-copia.jpg))
+  ![]([https://1.bp.blogspot.com/-l-AdhZiRaUE/X2WiDKCWQJI/AAAAAAABTx8/vyvIXwWd2kYbNZnwQk2NVf7oRNctpx0-QCPcBGAsYHg/w640-h436/IMG_6907.HEIC](https://www.discoveringfinland.com/wp-content/uploads/2010/08/museum_glims_espoo_200x700-copia.jpg)
 
 ## Ruokapaikat
 
