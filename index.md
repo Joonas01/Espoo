@@ -34,6 +34,7 @@ Nykyään Espoo on yksi Suomen suurimmista kaupungeista ja osa Helsingin seutuku
 Muutamia Espoon tunnettuja nähtävyyksiä:
 
 - Nuuksion kansallispuisto
+  !(https://52438878c5.clvaw-cdnwnd.com/2151ed1951bed54e23fc52baa4091dcf/200000109-979b9979bd/narahari-k-r-r0aq9pYIadI-unsplash.webp?ph=52438878c5)
 - Espoonlahden uimaranta
 - Glimsin kartano
 
