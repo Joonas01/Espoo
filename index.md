@@ -1,4 +1,3 @@
-# Espoo
 
 Mahtavaa, että eksyit Espoon kaupungin sivuille! Täällä jaamme tietoa ja tarinoita Espoon kaupungista.
 
